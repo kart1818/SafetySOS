@@ -1,4 +1,4 @@
-# Safety SOS App
+<img width="1470" height="956" alt="home" src="https://github.com/user-attachments/assets/4fd086eb-5180-4d73-bec9-0f8c812c3630" /># Safety SOS App
 
 An Android app that sends an emergency SMS with the user's live location to a saved contact, with a single tap or by shaking the phone.
 
@@ -22,7 +22,9 @@ In a dangerous situation, finding and typing a message to someone is often not p
 
 | Home screen | SOS sent |
 |-------------|----------|
-| ![Home screen](screenshots/home.png) | ![SOS sent](screenshots/sos.png) |
+| ![Home screen](<img width="1470" height="956" alt="home" src="https://github.com/user-attachments/assets/fb533e0f-c4d6-4e2b-9e8f-0aec7ced2ae9" />
+) | ![SOS sent](<img width="1470" height="956" alt="sos" src="https://github.com/user-attachments/assets/476b20f5-f40b-4d33-a733-46fd5a42f647" />
+) |
 
 ## How It Works
 
